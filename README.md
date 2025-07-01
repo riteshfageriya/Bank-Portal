@@ -216,12 +216,4 @@ We welcome contributions! Fork the repository and create a pull request with you
 
 ----
 
-### 📧 **Contact Information**
-
-If you have any questions or need further assistance, feel free to reach out:
-
-- **Email**: [jyanigopalaram@gmail.com](mailto:jyanigopalaram@gmail.com)
-- **LinkedIn**: [Gopala Ram Jyani](https://www.linkedin.com/in/gopala-ram-jyani-1734b4274/)
-- **GitHub**: [Gopaljyani2005](https://github.com/gopaljyani2005/)
-
 ---
